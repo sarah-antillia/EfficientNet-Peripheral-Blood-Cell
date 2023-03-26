@@ -81,12 +81,13 @@ platelet
 We have splitted the image files in the original PBC_dataset_normal_DIB folder to train and test dataset by using 
 <a href="./projects/Peripheral_Blood_Cell/split_master.py">split_master.py</a>
 script.<br>
-You can download the new Peripheral_Blood_Cell dataset splitted to train and test from 
-<a href="https://drive.google.com/file/d/12nJmOmDJHOZ5U7GXQOjRlZpSw1EgNYSS/view?usp=sharing">here</a>,
-<br>
 <pre>
 >python split_master.py
 </pre>
+
+You can download the new Peripheral_Blood_Cell dataset splitted to train and test from 
+<a href="https://drive.google.com/file/d/12nJmOmDJHOZ5U7GXQOjRlZpSw1EgNYSS/view?usp=sharing">here</a>,
+<br>
 
 <pre>
 .
