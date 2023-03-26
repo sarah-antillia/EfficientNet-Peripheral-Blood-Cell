@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#efficientnetv2-b0/
+#projects/Acute-Lymphoblastic-Leukemia/Acute-Lymphoblastic-Leukemia/
+#projects/Acute-Lymphoblastic-Leukemia/models/

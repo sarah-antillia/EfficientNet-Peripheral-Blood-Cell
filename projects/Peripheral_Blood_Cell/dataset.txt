@@ -1,0 +1,11 @@
+The orignal Peripheral Blood Cell image dataset used here has been taken from the following web site:
+
+https://data.mendeley.com/datasets/snkd93bnjr/1
+
+A dataset for microscopic peripheral blood cell images for development 
+of automatic recognition systems
+
+---
+Acevedo, Andrea; Merino, Anna; Alférez, Santiago; Molina, Ángel; Boldú, Laura; Rodellar, José (2020), 
+“A dataset for microscopic peripheral blood cell images for development of automatic recognition 
+systems”, Mendeley Data, V1, doi: 10.17632/snkd93bnjr.1
