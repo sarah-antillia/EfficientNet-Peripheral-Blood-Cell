@@ -230,7 +230,7 @@ from <a href="https://storage.googleapis.com/cloud-tpu-checkpoints/efficientnet/
 <a id="4.1">4.1 Train script</a>
 </h3>
 Please run the following bat file to train our Peripheral-Blood-Cellefficientnetv2 model by using
-<b>Malaria_Cell_Images/train</b>.
+<b>Peripheral_Blood_Cell/train</b>.
 <pre>
 ./1_train.bat
 </pre>
@@ -369,7 +369,7 @@ Inference result (<a href="./projects/Peripheral_Blood_Cell/inference/inference.
 <a id="6.1">6.1 Evaluation script</a>
 </h3>
 Please run the following bat file to evaluate <a href="./projects/Peripheral_Blood_Cell/Peripheral_Blood_Cell/test">
-Malaris_Cell_Images/test</a> by the trained model.<br>
+Peripheral_Blood_Cell/test</a> by the trained model.<br>
 <pre>
 ./3_evaluate.bat
 </pre>
